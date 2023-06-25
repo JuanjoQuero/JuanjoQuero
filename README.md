@@ -1,10 +1,10 @@
 ### Hi I'm JuanjoQuero!
 
 
-##Aspiring data scientist## 
+##Aspiring data scientist 
 
 ###After getting enrolled into a HyperionDev Data Science Bootcamp, 
-I've found a fulfilling passion and decided to transition into a tech career.###
+I've found a fulfilling passion and decided to transition into a tech career.
 
 I'm currently open to job offers, looking for an internship to apply my new set of skills.
 I'm interested in Machine Learning, AI and Data visualisations. 
