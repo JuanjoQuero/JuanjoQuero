@@ -1,4 +1,4 @@
-# Hi I'm JuanjoQuero
+# Hi I'm Juan Quero
 
 
 ## Data scientist 
